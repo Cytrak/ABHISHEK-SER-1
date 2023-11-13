@@ -24,8 +24,10 @@ let lkr = `╭───❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯
 ╭───❮ *𝙾𝚆𝙽𝙴𝚁 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}*on/off* public_
 │ _${usedPrefix}*on/off* autoreact_
+│ _${usedPrefix}fullpp_
 │ _${usedPrefix}update_
-│ _${usedPrefix}sudo_
+│ _${usedPrefix}setsudo_
+│ _${usedPrefix}dltsudo_
 │ _${usedPrefix}autoadmin_
 │ _${usedPrefix}left_
 │ _${usedPrefix}banchat_
