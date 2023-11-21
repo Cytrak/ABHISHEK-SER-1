@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+,import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -61,11 +61,11 @@ global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztw
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
 
-//Dont Edit Danger Zone⚠️
+//Dont Edit Danger Zone🚫
 global.wait = '*⌛ _Please Wait..._*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '☝️
 global.error = '❌' 
 global.mlc = '📃'
 global.sdc = '🎶'
